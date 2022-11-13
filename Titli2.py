@@ -4,8 +4,8 @@ import time
 
 os.system("clear")
 
-print("  ==> \033[1;32mTHIS TOOLS DECODE BY (KaBIr HaSaN)
-")
+print("  ==> \033[1;32mTHIS TOOLS DECODE BY (KaBIr HaSaN)")
+
 
 time.sleep(5)
 
