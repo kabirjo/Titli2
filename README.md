@@ -30,9 +30,15 @@ Git Clone https://github.com/kabirjo/Titli2
 cd Titli2
 
 python Titli2.py
-# TitLi2
 
-Nothing tell about me. Just darkness 
+# Disclaimer
+
 please don't use any illegal activities.
+
 Don't sell it.
-use it as entertainment and learning propose onlyf
+
+Use it as entertainment and learning propose only
+
+I'M not responsible for any other problem
+
+so use it you own risk
