@@ -4,7 +4,7 @@ import time
 
 os.system("clear")
 
-print("  ==> \033[1;32mTHIS TOOLS DEVELOPER - (KaBIr HaSaN)")
+print("  ==> \033[1;32mTHIS TOOLS DEVELOPER - (KaBIr HaSaN) Titli2")
 
 
 time.sleep(7)
@@ -273,7 +273,7 @@ def jalan(z):
 
 def mentod():
 
-    print('%sâ----------------/////-------------\n %sMETHOD MENU%s'%(N,BM,N))
+    print('%sâ---------------------/////-------------------\n %s--------METHOD MENU------%s'%(N,BM,N))
 
     print(' %s[%s1%s] Method 1 free (%sRecommended%s)'%(N,H,N,H,N))
 
@@ -302,29 +302,27 @@ def logo():
 \033[1;92m
 
 d888888b d888888b d888888b db      d888888b .d888b.
-`~~88~~'   `88'   `~~88~~' 88        `88'   VP  `8D
+   88      `88'      88    88        `88'   VP  `8D
    88       88       88    88         88       odD'
    88       88       88    88         88     .88'  
-   88      .88.      88    88booo.   .88.   j88.   
+   88      .88.      88    88        .88.   j88.   
    YP    Y888888P    YP    Y88888P Y888888P 888888D
 
-\033[1;92m    | [\033[1;31;1mÂ©\033[1;92m]  [\033[1;31;1mÂ©\033[1;92m] |â€‹
+ \033[1;92m   |  [\33[1;33mTitli2\033[1;92m]  | [+] HACKERS BANGLADESH [+]
 
- \033[1;92m   |  [\33[1;33m====\033[1;92m]  | [+] HACKERS BANGLADESH [+]
+\033[1;92m-----///----------////////---------///----------
 
-\033[1;92m------------------////////--------------•—
+\033[1;31;1m-- \033[1;92m [---] \033[1;31;1mAuthor    :  \033[1;92m     Kabir Hasan           \033[1;31;1m
 
-\033[1;31;1mâ–ˆ \033[1;92m [---] \033[1;31;1mAuthor    :  \033[1;92Kabir Hasan           \033[1;31;1m â–ˆ
+\033[1;31;1m-- \033[1;92m [---] \033[1;31;1mWhatsapp  :  \033[1;92m    +1(626)269-9468     \033[1;31;1m
 
-\033[1;31;1mâ–ˆ \033[1;92m [---] \033[1;31;1mWhatsapp  :  \033[1;92m +1(626)269-9468     \033[1;31;1m â–ˆ
+\033[1;31;1m-- \033[1;92m [---] \033[1;31;1mGitHub    : \033[1;92m      Titli2\033[1;31;1m
 
-\033[1;31;1mâ–ˆ \033[1;92m [---] \033[1;31;1mGitHub    : \033[1;92m Titli2\033[1;31;1m â–ˆ
+\033[1;31;1m-- \033[1;92m [---] \033[1;31;1mFacebook  :   \033[1;92m    Kabir Hasan\033[1;31;1m 
 
-\033[1;31;1mâ–ˆ \033[1;92m [---] \033[1;31;1mFacebook   :   \033[1;92mKabir Hasan\033[1;31;1m â–ˆ
+\033[1;31;1m-- \033[1;92m [---] \033[1;31;1mVersion   :  \033[1;92m      0.3                  \033[1;31;1m
 
-\033[1;31;1mâ–ˆ \033[1;92m [---] \033[1;31;1mVersion   :  \033[1;92m 0.3                  \033[1;31;1mâ–ˆ
-
-\033[1;92mâ•šââ----------/////////----------------""")
+\033[1;92 ------////----------/////////---------///-----------""")
 
 def hasil(ok,cp):
 
@@ -506,7 +504,8 @@ class __chigoue__:
 
             #jalan(f" {N}[{M}Ã—{N}] Sorry, wrong username");self.tampilkan_apk()
 
-            print(f" {H}[{H}Ã—{H}] Select Between y/t");__chigoue__().chi(id)
+
+            print(f" {H}[{H}Ã—{H}] Select Between y - n");__chigoue__().chi(id)
 
         self.cnt = input('\033[1;92m[+] Enter File Name :\033[1;92m ')
 
@@ -660,13 +659,13 @@ class __chigoue__:
 
         logo()
 
-        print ('[1] Method {1}')
+        print ('[1] Method : 1')
 
-        print ('[2] Method {2}')
+        print ('[2] Method : 2')
 
-        print ('[3] Method {3}')
+        print ('[3] Method : 3')
 
-        print ('[4] Method {4}')
+        print ('[4] Method : 4')
 
         yan = input('\n%s[%s+%s] Select Method : '%(H,H,H))
 
@@ -698,13 +697,16 @@ class __chigoue__:
 
     def kombinasi_pw(self,url):
 
-        print('%sâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n %sPASSWORD MENU%s'%(H,H,H))
 
-        print('%s[%s1%s] Name,Name123,Name12345'%(H,H,H))
 
-        print('%s[%s2%s] Name,Name123,Name1234,Name12345'%(H,H,H))
+        print('%s--------///-------///////-----------/////-------\n %s---------------PASSWORD MENU---------------%s'%(H,H,H))
 
-        print('%s[%s3%s] Name,Name123,Name1234,Name12345,%s+Single Password Using Coma%s'%(H,H,H,H,H))
+        print('%s[%s1%s] Name, Name123, Name12345'%(H,H,H))
+
+        print('%s[%s2%s] Name, Name123, Name1234, Name12345'%(H,H,H))
+
+        print('%s[%s3%s] Name, Name123, Name1234, Name12345,%s+Single Password Using Coma%s'%(H,H,H,H,H))
+
 
         pw = input(f"\n{H}[{H}+{H}] Select Password Method : ")
 
@@ -714,7 +716,7 @@ class __chigoue__:
 
         elif pw in["1","01"]:
 
-            print('%sâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n[%s+%s] OK : results/OK-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
+            print('%s--------///-------///////-----------/////------\n[%s+%s] OK : results/OK-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
 
             print('%s[%s+%s] CP : results/CP-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
 
@@ -746,11 +748,11 @@ class __chigoue__:
 
         elif pw in["2","02"]:
 
-            print('%sâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n[%s+%s] OK : results/OK-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
+            print('%s-----------------------------------------------------\n[%s+%s] OK : results/OK-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
 
             print('%s[%s+%s] CP : results/CP-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
 
-            print('%sâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n[%s!%s] Use Airplane Mode If You Result\n[%s!%s] After 500 Id Crack Use Airplane Mode\n[%s!%s] To stop %sCTRL+c%s on keyboard\nâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•'%(H,H,H,H,H,H,H,H,H))
+            print('%s -----------------------------------------------------\n[%s!%s] Use Airplane Mode If You Result\n[%s!%s] After 500 Id Crack Use Airplane Mode\n[%s!%s] To stop %sCTRL+c%s on keyboard\nâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•'%(H,H,H,H,H,H,H,H,H))
 
             with YayanGanteng(max_workers=35) as kirim:
 
@@ -788,11 +790,11 @@ class __chigoue__:
 
             pw = input(f"{H}[{H}+{H}] Enter Choice Password : {H}").split(",")
 
-            print('%sâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n[%s+%s] OK : results/OK-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
+            print('%s -----------------------------------------------------\n[%s+%s] OK : results/OK-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
 
             print('%s[%s+%s] CP : results/CP-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
 
-            print('%sâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n[%s!%s] If You No Result Use {Airplane Mode} 5 Second\n[%s!%s] To stop %sCTRL+c%s on keyboard\nâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•'%(H,H,H,H,H,H,H,H,H))
+            print('%s ----------------------------------------------------- \n[%s!%s] If You No Result Use {Airplane Mode} 5 Second\n[%s!%s] To stop %sCTRL+c%s on keyboard\n-----------------------------------------------------'%(H,H,H,H,H,H,H,H,H))
 
             with YayanGanteng(max_workers=35) as kirim:
 
