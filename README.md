@@ -28,6 +28,7 @@ Git Clone https://github.com/kabirjo/Titli2
 # For Run Tools
 
 cd Titli2
+
 python Titli2.py
 # TitLi2
 
