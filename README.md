@@ -23,7 +23,7 @@ termux-setup-storage
 
 # For Install
 
-Git Clone https://github.com/kabirjo/Titli2
+git clone https://github.com/kabirjo/Titli2
 
 # For Run Tools
 
